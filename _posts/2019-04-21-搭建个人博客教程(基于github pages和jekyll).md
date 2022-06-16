@@ -36,7 +36,7 @@ tags:
     ![create-repo](/img/post1-crerepo2.png)  
     3. 创建好仓库之后，进入刚创建的仓库，点击如图右下角的uploadfiles：
     ![uploafiles](/img/post1-uploadfile.png)  
-    4. 在[这里](https://github.com/Xiaokeai18/xiaokeai18.github.io/releases)下载压缩包，把压缩包解压之后，把里面的所有文件，全部上传到上一步里满的仓库里。  
+    4. 在[这里](https://github.com/tianyaxiang/tianyaxiang.github.io/releases)下载压缩包，把压缩包解压之后，把里面的所有文件，全部上传到上一步里满的仓库里。  
     注意，要下载最新版的压缩包,名字为jekyll_blog.tar或者jekyll_blog.zip，Linux用户下载tar版本，windows用户下载zip版本。
     ![content](/img/post1-content.png)   
     5. 上传完成后，结果应该如图所示：

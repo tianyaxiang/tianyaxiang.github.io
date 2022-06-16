@@ -15,7 +15,7 @@ tags:
 ## 《Learning Spatiotemporal Features with 3D Convolutional Networks》  
 
 [原文链接](https://arxiv.org/abs/1412.0767)在这里 [pdf](https://arxiv.org/pdf/1412.0767.pdf)    
-代码在[这里](https://github.com/Xiaokeai18/C3D-tensorflow)
+代码在[这里](https://github.com/tianyaxiang/C3D-tensorflow)
 
 这是Du Tran于2014年发表于CVPR的一篇关于深度学习用于动作识别的文献，第一次提出了 C3D Model,即三维卷积神经网络。  
 
@@ -66,7 +66,7 @@ tags:
 
 ### 8. My Implementation  
 
-使用TensorFlow复现的代码点击 [这里](https://github.com/Xiaokeai18/C3D-tensorflow)  
+使用TensorFlow复现的代码点击 [这里](https://github.com/tianyaxiang/C3D-tensorflow)  
 
 不加载预训练模型，使用OpenCV resize原始图像，保存为float64形式，训练8000轮，BATCH_SIZE=10，训练结果如下图：  
 ![result](/img/post2-result.png)  

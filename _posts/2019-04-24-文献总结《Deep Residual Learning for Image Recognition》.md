@@ -16,7 +16,7 @@ tags:
 ## 《Deep Residual Learning for Image Recognition》  
 
 [原文链接](https://arxiv.org/abs/1512.03385)在这里 [pdf](https://arxiv.org/pdf/1512.03385.pdf)    
-我的TensorFlow版本的代码在[这里](https://github.com/Xiaokeai18/resnet-tensorflow-implementation)
+我的TensorFlow版本的代码在[这里](https://github.com/tianyaxiang/resnet-tensorflow-implementation)
 
 这是Kaiming He等人于2015年发表于CVPR的一篇关于深层卷积神经网络用于图像识别的文献，第一次提出了Residual Network (残差网络),即著名的ResNet。  
 
@@ -86,7 +86,7 @@ tags:
 
 ### 7. My Implementation  
 
-使用TensorFlow复现的代码点击 [这里](https://github.com/Xiaokeai18/resnet-tensorflow-implementation)  
+使用TensorFlow复现的代码点击 [这里](https://github.com/tianyaxiang/resnet-tensorflow-implementation)  
 该实验再**CIFAR10**数据集上进行。  
 
 训练阶段的loss：  

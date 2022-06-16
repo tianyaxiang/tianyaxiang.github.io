@@ -67,9 +67,9 @@ gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: 6cbaa4389d74519e2e52                            #生成的clientID
   clientSecret: 9ad60699b9b111d887b1510d34418901ca1a0db2    #生成的clientSecret
-  repo: xiaokeai18.github.io    #仓库名称
-  owner: xiaokeai18    #github用户名
-  admin: xiaokeai18
+  repo: tianyaxiang.github.io    #仓库名称
+  owner: tianyaxiang    #github用户名
+  admin: tianyaxiang
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 

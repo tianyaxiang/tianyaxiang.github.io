@@ -3,7 +3,7 @@ layout:     post
 title:      目标检测经典算法总结(R-CNN, Fast R-CNN, Faster R-CNN, YOLO)
 subtitle:   Including brief overview of R-CNN, Fast R-CNN, Faster R-CNN and YOLO.
 date:       2019-12-15
-author:     王沛
+author:     乐题库
 header-img: img/seu-auditorium.jpg
 catalog: true
 tags:

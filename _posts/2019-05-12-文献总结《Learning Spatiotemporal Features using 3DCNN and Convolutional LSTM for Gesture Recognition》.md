@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《Learning Spatiotemporal Features using 3DCNN and Convolutional LSTM for Gesture Recognition》
 subtitle:   使用3D卷积和卷积LSTM学习时空特征用于手势识别
 date:       2019-05-12
-author:     王沛
+author:     乐题库
 header-img: img/iccv17.jpg
 catalog: true
 tags:

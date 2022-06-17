@@ -3,7 +3,7 @@ layout:     post
 title:      使用Tensorflow搭建CNN训练MNIST遇到GPU显存资源耗尽问题的解决方法
 subtitle:   tensorflow.python.framework.errors_impl.ResourceExhaustedError 的解决方法
 date:       2019-01-20
-author:     王沛
+author:     乐题库
 header-img: img/TensorFlow-logo.jpg
 catalog: true
 tags:

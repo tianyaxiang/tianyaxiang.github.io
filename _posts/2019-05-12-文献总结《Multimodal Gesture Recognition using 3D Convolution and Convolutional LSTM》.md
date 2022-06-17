@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《Multimodal Gesture Recognition Using 3-D Convolution and Convolutional LSTM》
 subtitle:   使用3D卷积和卷积LSTM进行多模手势识别
 date:       2019-05-12
-author:     王沛
+author:     乐题库
 header-img: img/IEEEACCESS.png
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《You Only Look Once：Unified, Real-Time Object Detection》
 subtitle:   YOLO：统一、实时的目标检测
 date:       2019-11-03
-author:     王沛
+author:     乐题库
 header-img: img/CVPR2016.jpg
 catalog: true
 tags:

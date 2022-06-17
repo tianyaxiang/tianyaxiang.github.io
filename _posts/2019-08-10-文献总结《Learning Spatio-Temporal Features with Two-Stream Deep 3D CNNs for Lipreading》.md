@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《Learning Spatio-Temporal Features with Two-Stream Deep 3D CNNs for Lipreading》
 subtitle:   使用双流深度三维卷积神经网络学习唇语的时空特征
 date:       2019-08-10
-author:     王沛
+author:     乐题库
 header-img: img/CVPR2018.jpg
 catalog: true
 tags:

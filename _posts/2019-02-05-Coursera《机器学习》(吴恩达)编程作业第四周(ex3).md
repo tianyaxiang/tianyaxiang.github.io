@@ -3,7 +3,7 @@ layout:     post
 title:      Coursera《机器学习》(吴恩达)编程作业第四周(ex3)
 subtitle:   吴恩达机器学习课程编程作业 Week4 /exercise3
 date:       2019-02-05
-author:     王沛
+author:     乐题库
 header-img: img/machine-leaining.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      Coursera《Introduction to TensorFlow》第三周测验
 subtitle:   《Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning》第三周(Enhancing Vision with Convolutional Neural Networks)的测验答案
 date:       2019-04-01
-author:     王沛
+author:     乐题库
 header-img: img/introduction-to-tf.jpg
 catalog: true
 tags:

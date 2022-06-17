@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《Learning Spatiotemporal Features with 3D Convolutional Networks》(附TensorFlow代码)
 subtitle:   使用3D卷积神经网络学习时空特征
 date:       2019-04-21
-author:     王沛
+author:     乐题库
 header-img: img/CVPR2018.jpg
 catalog: true
 tags:

@@ -3,7 +3,7 @@ layout:     post
 title:      搭建个人博客教程(基于github pages和jekyll)
 subtitle:   The simplest way of building a personal website based on github pages and jekyll
 date:       2019-04-21
-author:     王沛
+author:     乐题库
 header-img: img/github-universe.png
 catalog: true
 tags:
@@ -13,7 +13,7 @@ tags:
 
 ## 前言
 
-这是目前为止最简单的搭建个人网站的方法。效果如下，点击[王沛的主页](https://wangpei.ink)访问：  
+这是目前为止最简单的搭建个人网站的方法。效果如下，点击[乐题库的主页](https://wangpei.ink)访问：  
 ![homepage](/img/post1-homepage.png)
 
 [Github Pages](https://pages.github.com/)的出现，使得搭建个人静态网站变得更加容易，省去了租用服务器的麻烦，事实上，Github给用户提供了免费的服务器。本文就是基于Github Pages建立的个人网站。  

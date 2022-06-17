@@ -3,7 +3,7 @@ layout:     post
 title:      Coursera《数字图像和视频处理基础》第一周测验
 subtitle:   《Fundamentals of Digital Image and Video Processing》第一周(Introduction to Image and Video Processing)的测验答案
 date:       2019-04-07
-author:     王沛
+author:     乐题库
 header-img: img/FDIVP.jpg
 catalog: true
 tags:

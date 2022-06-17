@@ -3,7 +3,7 @@ layout:     post
 title:      ubuntu环境下，系统无法与NVIDIA通信的解决方法
 subtitle:   系统错误提示：NVIDIA-SMI has failed because it couldn't communicate with the NVIDIA driver 的解决方法
 date:       2019-01-19
-author:     王沛
+author:     乐题库
 header-img: 
 catalog: true
 tags:

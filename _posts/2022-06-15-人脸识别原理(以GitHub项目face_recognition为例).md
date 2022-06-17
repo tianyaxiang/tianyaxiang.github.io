@@ -3,7 +3,7 @@ layout:     post
 title:      人脸识别原理(以GitHub项目face_recognition为例)
 subtitle:   Face Recognition based on DNN
 date:       2022-06-15
-author:     王沛
+author:     乐题库
 header-img: img/lfw.jpg
 catalog: true
 tags:

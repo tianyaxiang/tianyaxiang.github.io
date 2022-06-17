@@ -3,7 +3,7 @@ layout:     post
 title:      文献总结《Deep Residual Learning for Image Recognition》(附TensorFlow代码)
 subtitle:   图像识别的深度残差学习
 date:       2019-04-24
-author:     王沛
+author:     乐题库
 header-img: img/CVPR2018.jpg
 catalog: true
 tags:

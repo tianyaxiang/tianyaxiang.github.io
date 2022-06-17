@@ -3,7 +3,7 @@ layout:     post
 title:      Coursera《Introduction to TensorFlow》第一周测验
 subtitle:   《Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning》第一周(A New Programming Paradigm)的测验答案
 date:       2019-03-27
-author:     王沛
+author:     乐题库
 header-img: img/introduction-to-tf.jpg
 catalog: true
 tags:

@@ -26,14 +26,11 @@ public class RecognitionServiceImpl implements RecognitionService {     Contract
 在Spring中创建应用组件之间的协作方式通常称为装配（wiring)。它提供了三种装配实现方式，分别是XML装配、JavaConfig装配、自动装配。
 ## Spring 的装配方式
 ### **XML装配（在XML中显示配置）**
-![](https://cdn.nlark.com/yuque/0/2022/png/12605472/1655822213533-d64704d4-ae48-4b96-8a63-5d8a59fe3c6d.png#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=uf049a090&margin=%5Bobject%20Object%5D&originHeight=256&originWidth=978&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=udd6234dc-b149-4b37-b3b5-5fdaa21c4bf&title=)![image.png](https://cdn.nlark.com/yuque/0/2022/gif/12605472/1655822213396-5bac3f57-f0b3-4d5f-bf8c-8fc3d3494235.gif#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u34c7d159&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1&originWidth=1&originalType=url&ratio=1&rotation=0&showTitle=false&size=43&status=done&style=none&taskId=u68f879d6-8297-41db-8abf-c4e91be967a&title=)编辑
 ### **JavaConfig装配(基于Java的配置 )**
-![](https://cdn.nlark.com/yuque/0/2022/png/12605472/1655822213517-1c6f3abf-bd14-4eea-91f6-fa4bd03a1222.png#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=uf11bdcbc&margin=%5Bobject%20Object%5D&originHeight=369&originWidth=699&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u910e2e60-59c1-4143-b69f-a785fbde6df&title=)![image.png](https://cdn.nlark.com/yuque/0/2022/gif/12605472/1655822213370-3481266c-fc5e-4ba8-96cf-2a49adc1464e.gif#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=uc6b16514&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1&originWidth=1&originalType=url&ratio=1&rotation=0&showTitle=false&size=43&status=done&style=none&taskId=ubd92f3e7-41b4-4719-b5fe-67217e561b1&title=)编辑
 ### **自动化装配**
 ### Spring从两个角度实现自动化装配**：**
 **组件扫描（component scanning） ： Spring会自动发现应用上下文中所创建的bean **
 **自动装配（autowiring） ： Spring自动满足bean之间的依赖。**
-![](https://cdn.nlark.com/yuque/0/2022/png/12605472/1655822214039-96443907-cdba-492c-9587-b68662d60868.png#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u976ea5dc&margin=%5Bobject%20Object%5D&originHeight=236&originWidth=758&originalType=url&ratio=1&rotation=0&showTitle=false&status=done&style=none&taskId=u32eea64a-4e97-480c-ac6c-35c695c9a90&title=)![image.png](https://cdn.nlark.com/yuque/0/2022/gif/12605472/1655822214003-47c97534-d62a-454e-918c-defcb29aac96.gif#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=u9b950a52&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1&originWidth=1&originalType=url&ratio=1&rotation=0&showTitle=false&size=43&status=done&style=none&taskId=u3c18d872-d303-4846-8f40-b3b30986467&title=)编辑
 **简单来说，DI目的只有一个就是解耦，实现代码的松散耦合。高耦合的代码不易测试、不易复用。**
 # **二、AOP**
 ## **AOP的定义**

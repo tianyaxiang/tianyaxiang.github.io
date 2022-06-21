@@ -9,28 +9,6 @@ tags:
 - 架构师之路
 ---
 
-**目录**
-[前言](#%E5%89%8D%E8%A8%80)
-[一 DI](#%E4%B8%80%C2%A0DI)
-[DI（依赖注入）定义](#DI%EF%BC%88%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%EF%BC%89%E5%AE%9A%E4%B9%89)
-[背景和问题](#%E8%83%8C%E6%99%AF%E5%92%8C%E9%97%AE%E9%A2%98)
-[解决方案](#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-[Spring 的装配方式](#Spring%C2%A0%E7%9A%84%E8%A3%85%E9%85%8D%E6%96%B9%E5%BC%8F)
-[XML装配（在XML中显示配置）](#XML%E8%A3%85%E9%85%8D%EF%BC%88%E5%9C%A8XML%E4%B8%AD%E6%98%BE%E7%A4%BA%E9%85%8D%E7%BD%AE%EF%BC%89)
-[JavaConfig装配(基于Java的配置 )](#JavaConfig%E8%A3%85%E9%85%8D(%E5%9F%BA%E4%BA%8EJava%E7%9A%84%E9%85%8D%E7%BD%AE%C2%A0))
-[自动化装配](#%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A3%85%E9%85%8D)
-[Spring从两个角度实现自动化装配：](#Spring%E4%BB%8E%E4%B8%A4%E4%B8%AA%E8%A7%92%E5%BA%A6%E5%AE%9E%E7%8E%B0%E8%87%AA%E5%8A%A8%E5%8C%96%E8%A3%85%E9%85%8D%EF%BC%9A)
-[二、AOP](#%E4%BA%8C%E3%80%81AOP)
-[AOP的定义](#AOP%E7%9A%84%E5%AE%9A%E4%B9%89)
-[背景和问题](#%E8%83%8C%E6%99%AF%E5%92%8C%E9%97%AE%E9%A2%98)
-[解决方案](#%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-[AOP术语](#AOP%E6%9C%AF%E8%AF%AD)
-[通知（advice)](#%E9%80%9A%E7%9F%A5%EF%BC%88advice))
-[Spring 对AOP的支持](#Spring%C2%A0%E5%AF%B9AOP%E7%9A%84%E6%94%AF%E6%8C%81)
-[总结](#%E6%80%BB%E7%BB%93)
-
----
-
 # 前言
 Spring框架通过POJO最小侵入性编程、DI、AOP、**模板代码手段来**简化了Java 开发，简化了企业应用的开发。POJO和模板代码相对来说好理解，本篇重点解读下DI和AOP。
 # **一 DI**

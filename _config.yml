@@ -18,11 +18,11 @@ sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's use
 
 # SNS settings
 RSS: false
-# weibo_username:     暂无
-zhihu_username:     小可爱
+weibo_username:     coderidea
+zhihu_username:     meng-chen-58
 github_username:    tianyaxiang
-facebook_username:  暂无
-jianshu_username:   暂无
+#facebook_username:  暂无
+#jianshu_username:   暂无
 #twitter_username:   暂无
 
 

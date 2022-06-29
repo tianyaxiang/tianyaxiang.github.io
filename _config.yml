@@ -101,7 +101,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me/"
+        title: "博客园",
+        href: "https://www.cnblogs.com/xiaoyao2011/"
     }
 ]

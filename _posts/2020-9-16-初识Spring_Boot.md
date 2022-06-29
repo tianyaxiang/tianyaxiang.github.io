@@ -7,9 +7,7 @@ author:     coderidea
 header-style: text
 catalog: true
 tags:
-- 程序人生
-- 网站设计
-- 用户体验
+- Spring Boot
 --- 
 <p><strong>Spring Boot是什么？</strong></p>
 

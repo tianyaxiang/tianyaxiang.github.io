@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Dojo_Javascript_编程规范（转）
+title:      Dojo_Javascript_编程规范
 subtitle:   
 date:       2020-9-16
 author:     coderidea

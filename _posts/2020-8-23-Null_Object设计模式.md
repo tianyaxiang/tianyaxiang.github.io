@@ -7,9 +7,7 @@ author:     coderidea
 header-style: text
 catalog: true
 tags:
-- 程序人生
-- 网站设计
-- 企业架构
+- 设计模式
 --- 
 <div class="postBody">
 			<div id="cnblogs_post_body" class="blogpost-body"><p><span style="color:#000000;text-transform:none;text-indent:0px;letter-spacing:normal;word-spacing:0px;border-collapse:separate;" class="Apple-style-span"><span style="line-height:24px;font-family:arial, '宋体', sans-serif;font-size:14px;" class="Apple-style-span">       在设计实现中，很多地方都用到了<strong>Null Object设计模式</strong>。<strong>Null Object模式</strong>的含义在于，提供一个对象给指定的类型，用以代替这个对象为空的情况。<strong> Null Object</strong>提供了“什么也不做”的行为,隐藏来自它的合作者的细节。</span></span></p>

@@ -7,9 +7,8 @@ author:     coderidea
 header-style: text
 catalog: true
 tags:
-- 程序人生
+- jQuery
 - 网站设计
-- 网页设计
 --- 
 <div class="postBody">
 			<div id="cnblogs_post_body" class="blogpost-body"><div>jquery radio取值，checkbox取值，select取值，radio选中，checkbox选中，select选中，及其相关 <br />获取一组radio被选中项的值 <br />var item = $('input[@name=items][@checked]').val(); </div>

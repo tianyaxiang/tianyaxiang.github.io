@@ -103,5 +103,9 @@ friends: [
     {
         title: "博客园",
         href: "https://www.cnblogs.com/xiaoyao2011/"
-    }
+    },
+  {
+    title: "CSDN",
+    href: "https://blog.csdn.net/tianyaxiang"
+  }
 ]

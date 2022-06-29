@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      jquery获取text,areatext,radio,checkbox,select值（转）
+title:      jquery获取text,areatext,radio,checkbox,select值
 subtitle:   
 date:       2020-10-2
 author:     Coderidea

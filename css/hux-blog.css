@@ -1694,3 +1694,28 @@ img::-moz-selection {
 .no-scroll {
   overflow-y: hidden;
 }
+#scrollUp {
+  background-color: #777;
+  color: #eee;
+  font-size: 40px;
+  line-height: 1;
+  text-align: center;
+  text-decoration: none;
+  bottom: 20px;
+  right: 20px;
+  overflow: hidden;
+  width: 46px;
+  height: 46px;
+  border: none;
+  opacity: .8
+}
+
+#scrollUp:hover {
+  background-color: #333
+}
+
+@media screen and (min-width: 992px) {
+  #scrollUp {
+    bottom: 100px
+  }
+}

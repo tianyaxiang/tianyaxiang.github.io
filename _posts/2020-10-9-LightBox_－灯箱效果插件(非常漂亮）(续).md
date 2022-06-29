@@ -12,7 +12,7 @@ tags:
 - 工具
 --- 
 <div class="postBody">
-			<div id="cnblogs_post_body" class="blogpost-body"><div class="Name">       接上篇<a id="ctl03_TitleUrl" class="postTitle2" href="http://www.cnblogs.com/xiaoyao2011/archive/2011/10/28/LightBox.html">LightBox －灯箱效果插件(非常漂亮）</a> </div>
+			<div id="cnblogs_post_body" class="blogpost-body"><div class="Name">       接上篇<a id="ctl03_TitleUrl" class="postTitle2" href="https://www.leti.ltd/archive/2011/10/28/LightBox.html">LightBox －灯箱效果插件(非常漂亮）</a> </div>
 <div class="Name">      <strong>8）YoxView</strong>是一个可以灵活定制的j<strong>Query图片查看插件</strong>（<strong>Lightbox</strong>），用于展示单张或多张图片。可以在一个模式对话框中利用向前/向后按纽或slideshow的方式浏览图片。YoxView支持在同一个页面放置多个实例，而且这些实例可以单独配置。YoxView还支持多种语言，可以通过语言文件定制。</div>
 <div class="Name">
 <div class="tool gray"> </div>
@@ -134,7 +134,7 @@ tags:
 
 <div id="ckepop"> </div>
 <div>
-<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;">作者：<a href="http://www.cnblogs.com/xiaoyao2011/">孟晨</a> <br /> 出处：<a href="http://www.cnblogs.com/xiaoyao2011/">http://www.cnblogs.com/xiaoyao2011/</a> <br />欢迎任何形式的转载，但请务必注明出处。</p>
+<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;">作者：<a href="https://www.leti.ltd/">孟晨</a> <br /> 出处：<a href="https://www.leti.ltd/">https://www.leti.ltd/</a> <br />欢迎任何形式的转载，但请务必注明出处。</p>
 </div>
 </div>
 </div>

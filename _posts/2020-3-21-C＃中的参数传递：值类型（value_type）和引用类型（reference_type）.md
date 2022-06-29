@@ -8,8 +8,7 @@ header-style: text
 catalog: true
 tags:
 - 程序人生
-- 网站设计
-- 工具
+- C#
 --- 
 <div class="postBody">
 			<div id="cnblogs_post_body" class="blogpost-body"><p><span class="Apple-style-span" style="color:#542d24;font-family:Arial;font-size:14px;line-height:normal;">摘要：<br style="line-height:normal;" />由于在.NET中存在两种类型，分别是值类型（value type）和引用类型（reference type），所以很多关于C#中<strong style="line-height:normal;">参数</strong><strong style="line-height:normal;">传递</strong>的混淆就因此而生。本文首先从值类型和引用类型的辨析入手，然后解释了在C#中的<strong style="line-height:normal;">参数</strong><strong style="line-height:normal;">传递</strong>的四种形式：值<strong style="line-height:normal;">传递</strong>（默认形式）、ref<strong style="line-height:normal;">传递</strong>、out<strong style="line-height:normal;">传递</strong>、params<strong style="line-height:normal;">传递</strong>。</span></p>

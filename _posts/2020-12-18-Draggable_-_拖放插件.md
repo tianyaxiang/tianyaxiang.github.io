@@ -163,7 +163,7 @@ tags:
 </div>
 <div id="ckepop"> </div>
 <div>
-<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;"><img title="web馆" src="https://files.cnblogs.com/xiaoyao2011/wx.gif" alt="" width="113" height="113" /><br />  欢迎扫描此二维码关注web馆公众号  <br />  作者：<a href="http://www.cnblogs.com/xiaoyao2011/">web馆</a>  <br />  出处：<a href="http://www.cnblogs.com/xiaoyao2011">http://www.cnblogs.com/xiaoyao2011/</a> <br />  欢迎任何形式的转载，但请务必注明出处。<br /><br /><br /></p>
+<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;"><img title="web馆" src="/img/wx.gif" alt="" width="113" height="113" /><br />  欢迎扫描此二维码关注web馆公众号  <br />  作者：<a href="https://www.leti.ltd/">web馆</a>  <br />  出处：<a href="http://www.cnblogs.com/xiaoyao2011">https://www.leti.ltd/</a> <br />  欢迎任何形式的转载，但请务必注明出处。<br /><br /><br /></p>
 
 
 

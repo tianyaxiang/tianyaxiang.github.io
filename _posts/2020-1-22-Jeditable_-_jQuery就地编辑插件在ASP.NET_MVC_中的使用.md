@@ -12,7 +12,7 @@ tags:
 - 企业架构
 --- 
 <p><span style="font-family:'Helvetica Neue', Helvetica, Arial, sans-serif;font-size:13px;line-height:19px;">
-</span></p><p style="margin-left:auto;text-indent:2em;">    前篇文章<a id="cb_post_title_url" class="postTitle2" style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/04/28/jeditable.html">Jeditable - jQuery就地编辑插件使用</a>介绍了jeditable 的使用，官方例子是PHP的。我们现在实现在ASP.NET MVC 中的使用介绍。本例是ASP.NET MVC3.</p>
+</span></p><p style="margin-left:auto;text-indent:2em;">    前篇文章<a id="cb_post_title_url" class="postTitle2" style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;" href="https://www.leti.ltd/archive/2012/04/28/jeditable.html">Jeditable - jQuery就地编辑插件使用</a>介绍了jeditable 的使用，官方例子是PHP的。我们现在实现在ASP.NET MVC 中的使用介绍。本例是ASP.NET MVC3.</p>
 <h2 style="margin-left:auto;font-size:20px;font-weight:bold;">效果</h2>
 <p style="margin-left:auto;text-indent:2em;">点击前</p>
 <p style="margin-left:auto;text-indent:2em;"><img style="margin-left:0px;background-color:#ededed;clear:both;border:1px solid #dbdbdb;" src="http://pic002.cnblogs.com/images/2012/323522/2012050314310580.png" alt="" /></p>
@@ -21,7 +21,7 @@ tags:
 <h2 style="margin-left:auto;font-size:20px;font-weight:bold;">View</h2>
 <p style="margin-left:auto;text-indent:2em;">    我们实现jeditable的一些基本用法</p>
 <div class="cnblogs_code" style="margin-left:0px;background-color:#FFFFFF;font-family:'Courier New';font-size:12px;border:0px solid #cccccc;">
-<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="https://www.leti.ltd/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
 <pre><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;">@model JQueryEditableMVC.Models.Company
 @{
     Layout = null;
@@ -101,12 +101,12 @@ tags:
     <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&lt;/</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#800000;">div</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&gt;</span>
 <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&lt;/</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#800000;">body</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&gt;</span>
 <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&lt;/</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#800000;">html</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">&gt;<br /></span></pre>
-<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="https://www.leti.ltd/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
 </div>
 <h2 style="margin-left:auto;font-size:20px;font-weight:bold;">Model</h2>
 <p style="margin-left:auto;text-indent:2em;">   一个简单的model</p>
 <div class="cnblogs_code" style="margin-left:0px;background-color:#FFFFFF;font-family:'Courier New';font-size:12px;border:0px solid #cccccc;">
-<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="https://www.leti.ltd/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
 <pre><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">using</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;"> System;
 
 </span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">namespace</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;"> JQueryEditableMVC.Models
@@ -119,11 +119,11 @@ tags:
         </span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">public</span> <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">string</span> Town { <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">get</span>; <span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">set</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;">; }
     }
 }</span></pre>
-<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="https://www.leti.ltd/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
 </div>
 <h2 style="margin-left:auto;font-size:20px;font-weight:bold;"><span>Controller</span></h2>
 <div class="cnblogs_code" style="margin-left:0px;background-color:#FFFFFF;font-family:'Courier New';font-size:12px;border:0px solid #cccccc;">
-<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
+<div class="cnblogs_code_toolbar"><span class="cnblogs_code_copy" style="font-family:'Courier New';font-size:12px;line-height:1.5;"><a style="color:#2b8dc0;font-weight:inherit;line-height:inherit;text-decoration:none;background-color:#f5f5f5;" title="复制代码" href="https://www.leti.ltd/archive/2012/05/03/Jeditable-ASPNET-MVC.html"></a></span></div>
 <pre><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">using</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;"> System;
 </span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">using</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;"> System.Collections.Generic;
 </span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#0000ff;">using</span><span style="font-family:'Courier New';font-size:12px;line-height:1.5;color:#000000;"> System.Linq;

@@ -12,7 +12,7 @@ tags:
 - 插件
 --- 
 <div class="postBody">
-			<div id="cnblogs_post_body" class="blogpost-body"><p>    前篇文章<a id="cb_post_title_url" class="postTitle2" href="http://www.cnblogs.com/xiaoyao2011/archive/2012/04/28/jeditable.html">Jeditable - jQuery就地编辑插件使用</a>介绍了jeditable 的使用，官方例子是PHP的。我们现在实现在ASP.NET MVC 中的使用介绍。本例是ASP.NET MVC3.</p>
+			<div id="cnblogs_post_body" class="blogpost-body"><p>    前篇文章<a id="cb_post_title_url" class="postTitle2" href="https://www.leti.ltd/archive/2012/04/28/jeditable.html">Jeditable - jQuery就地编辑插件使用</a>介绍了jeditable 的使用，官方例子是PHP的。我们现在实现在ASP.NET MVC 中的使用介绍。本例是ASP.NET MVC3.</p>
 <h2>效果</h2>
 <p>点击前</p>
 <p><img src="https://pic002.cnblogs.com/images/2012/323522/2012050314310580.png" alt="" /></p>
@@ -160,7 +160,7 @@ tags:
 
 <div id="ckepop"> </div>
 <div>
-<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;">作   者：<a href="http://www.cnblogs.com/xiaoyao2011/">孟晨</a> <br /> 出   处：<a href="http://www.cnblogs.com/xiaoyao2011/">http://www.cnblogs.com/xiaoyao2011/</a> <br />个人站:  <a href="http://www.coderidea.com/">http://www.coderidea.com/</a><br />欢迎任何形式的转载，但请务必注明出处。</p>
+<p id="PSignature" style="line-height:20px;background:#FFFAEA no-repeat 2% 50%;font-size:12px;border:#e0e0e0 1px dashed;">作   者：<a href="https://www.leti.ltd/">孟晨</a> <br /> 出   处：<a href="https://www.leti.ltd/">https://www.leti.ltd/</a> <br />个人站:  <a href="http://www.coderidea.com/">http://www.coderidea.com/</a><br />欢迎任何形式的转载，但请务必注明出处。</p>
 
 
 </div></div><div id="MySignature"></div>

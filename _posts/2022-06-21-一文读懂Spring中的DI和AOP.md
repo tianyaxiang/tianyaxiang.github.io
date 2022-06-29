@@ -19,7 +19,6 @@ Spring框架通过POJO最小侵入性编程、DI、AOP、**模板代码手段来
 1.高度的耦合，RecognitionServiceImpl 和ContractRepository 两者耦合在一起。
 2.难以测试，如果我们想测试RecognitionService，在不改代码下很难来测试。
 public class RecognitionServiceImpl implements RecognitionService {     ContractRepository contractRepository = new ContractRepository(); } 
-![image.png](https://cdn.nlark.com/yuque/0/2022/gif/12605472/1655822213368-2804967e-b77e-40db-8b0c-65e06551fae2.gif#clientId=u174cb29d-ab38-4&crop=0&crop=0&crop=1&crop=1&from=paste&id=ue35aba25&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1&originWidth=1&originalType=url&ratio=1&rotation=0&showTitle=false&size=43&status=done&style=none&taskId=ubd112d8a-d651-48f1-bff5-4c7e484e724&title=)
 ## **解决方案**
 通过DI，对象的依赖关系将由系统中负责协调各对象的第三方组件在创建对象的时候进行设定。对象无需自行的创建或管理它们的依赖关系。DI带来的最大的收益是——松耦合。其次是面向接口依赖的可替换（常用的是测试的时候使用mock实现）
 在Spring 框架中怎么来实现DI呢？

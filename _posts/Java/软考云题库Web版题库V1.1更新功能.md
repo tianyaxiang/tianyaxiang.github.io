@@ -1,0 +1,40 @@
+<p>这一周软考云题库Web版迎来了一次重要的迭代更新，已于2020/1/5 日更新发布了，试用的同学可以前往试用体验新功能了。如果您有好的建议和意见也欢迎留言交流。</p>
+
+<p><strong>本次更新内容</strong></p>
+
+<ol><li>
+	<p>首页调整，增加考试倒计时模块更好的做好复习计划，增加每日一练菜单，增加每日一练模块。</p>
+	</li>
+	<li>
+	<p>增加每日一练模块，每日定时随机生成10道练习题目，供你每日的练习题目和巩固，提交试卷后，系统自动生成答题记录和成绩，如果有错题，系统自动为你加入到错题集。生成规则是按每个科目随机生成一套，暂没有做到针对单个用户的个性化的生成练习题库。</p>
+	</li>
+	<li>
+	<p>管理后台增加Dashboard，优化管理后台界面 ，增加用户管理功能，和系统日志查询功能。</p>
+	</li>
+	<li>
+	<p>本周新增软考中级网络设计师的题库。</p>
+	</li>
+	<li>
+	<p>本周新增两个用户，一个是赠送的会员帐号。</p>
+
+	<p><strong>首页</strong></p>
+	</li>
+</ol><p><img alt="" class="has" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9SWXZyS1BFTTZIVFgxUnhvdktvRENlb2pVTFR0aWI1dEhodFVpYmZEYWRmcm5UVUxBV2RHZGt2WEQ0dEdXeUpkQ054cXZNb0ZyOVdPcmFaaWE4ZlVnYk5Ody82NDA?x-oss-process=image/format,png" /></p>
+
+<p><strong>每日一练</strong></p>
+
+<p><img alt="" class="has" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9SWXZyS1BFTTZIVFgxUnhvdktvRENlb2pVTFR0aWI1dEhTbkRpYkJHUmljNFBLRmliS1BFcWE0eTNsbjdWVjdzazBlQmVJSllMcEprb0d6dkNKaWJ2MHVKMDZBLzY0MA?x-oss-process=image/format,png" /></p>
+
+<p><strong>每日一练成绩报告</strong></p>
+
+<p><img alt="" class="has" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9SWXZyS1BFTTZIVFgxUnhvdktvRENlb2pVTFR0aWI1dEh2Y3pyaGlhbEdzWXNyRlBTOXNYODRhcjRTYUpZWnREU1hYRWViWnJEWkQ0ak5YYkI5RjFjc0R3LzY0MA?x-oss-process=image/format,png" /></p>
+
+<p><strong>每日一练的答题记录</strong></p>
+
+<p><img alt="" class="has" src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9SWXZyS1BFTTZIVFgxUnhvdktvRENlb2pVTFR0aWI1dEhtaHlucU1xWVdXSXBvRjJoUWUyM2Q2UElia1NSTll2aWFRRW1pY2NhVXpxNklYcEVNMHZPemdxUS82NDA?x-oss-process=image/format,png" /></p>
+
+<p>欢迎你的试用，试用地址和帐号请留言或发消息。如果您有好的建议和意见也欢迎留言交流。</p>
+
+<p><strong>相关阅读：</strong></p>
+
+<p><a href="http://mp.weixin.qq.com/s?__biz=MzIwNDExNTEwNQ==&amp;mid=2647896372&amp;idx=1&amp;sn=3752d77052f3722dd55fc7a2f9fce400&amp;chksm=8ee20cfab99585ecf558cf339fdfd3846adbba559d18c8541fdd068ae406fed87070412b4853&amp;scene=21#wechat_redirect">软考云题库Web版正式上线了（移动流量慎点，页面图片较多）</a></p>

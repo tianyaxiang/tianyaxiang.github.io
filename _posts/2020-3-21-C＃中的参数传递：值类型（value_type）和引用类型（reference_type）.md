@@ -3,7 +3,7 @@ layout:     post
 title:      C＃中的参数传递：值类型（value_type）和引用类型（reference_type）
 subtitle:   
 date:       2020-3-21
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

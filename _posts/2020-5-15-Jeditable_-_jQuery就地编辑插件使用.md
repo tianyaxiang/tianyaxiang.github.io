@@ -3,7 +3,7 @@ layout:     post
 title:      Jeditable_-_jQuery就地编辑插件使用
 subtitle:   
 date:       2020-5-15
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

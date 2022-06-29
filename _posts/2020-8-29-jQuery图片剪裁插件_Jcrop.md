@@ -3,7 +3,7 @@ layout:     post
 title:      jQuery图片剪裁插件_Jcrop
 subtitle:   
 date:       2020-8-29
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

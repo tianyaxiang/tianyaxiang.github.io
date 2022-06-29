@@ -1,1 +1,1 @@
-Hi，我是coderidea，编程语言/编译器初心者
+Hi，我是Coderidea，编程语言/编译器初心者

@@ -3,7 +3,7 @@ layout:     post
 title:      10个最好的wordpress搜索引擎优化(SEO)插件
 subtitle:   
 date:       2020-6-22
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

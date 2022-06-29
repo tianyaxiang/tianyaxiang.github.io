@@ -3,7 +3,7 @@ layout:     post
 title:      Dojo_Javascript_编程规范
 subtitle:   
 date:       2020-9-16
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

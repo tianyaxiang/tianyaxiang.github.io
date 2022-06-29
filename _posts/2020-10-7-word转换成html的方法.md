@@ -3,7 +3,7 @@ layout:     post
 title:      word转换成html的方法
 subtitle:   
 date:       2020-10-7
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

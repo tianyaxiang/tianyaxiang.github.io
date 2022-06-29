@@ -3,7 +3,7 @@ layout:     post
 title:      Null_Object设计模式
 subtitle:   
 date:       2020-8-23
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

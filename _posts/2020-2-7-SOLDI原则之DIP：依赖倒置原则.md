@@ -3,7 +3,7 @@ layout:     post
 title:      SOLDI原则之DIP：依赖倒置原则
 subtitle:   
 date:       2020-2-7
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

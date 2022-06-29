@@ -3,7 +3,7 @@ layout:     post
 title:      在线PNG图片压缩工具推荐——TinyPng
 subtitle:   
 date:       2020-11-9
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

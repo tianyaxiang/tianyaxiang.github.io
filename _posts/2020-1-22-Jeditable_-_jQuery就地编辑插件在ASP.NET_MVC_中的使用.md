@@ -3,7 +3,7 @@ layout:     post
 title:      Jeditable_-_jQuery就地编辑插件在ASP.NET_MVC_中的使用
 subtitle:   
 date:       2020-1-22
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

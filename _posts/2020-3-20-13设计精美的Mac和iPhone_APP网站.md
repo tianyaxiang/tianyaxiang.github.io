@@ -3,7 +3,7 @@ layout:     post
 title:      13设计精美的Mac和iPhone_APP网站
 subtitle:   
 date:       2020-3-20
-author:     coderidea
+author:     Coderidea
 header-style: text
 catalog: true
 tags:

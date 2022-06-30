@@ -107,9 +107,5 @@ friends: [
   {
     title: "CSDN",
     href: "https://blog.csdn.net/tianyaxiang"
-  },
-  {
-    title: "字母屋",
-    href: "https://www.zimuwu.cn/"
   }
 ]

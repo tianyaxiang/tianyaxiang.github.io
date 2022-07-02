@@ -224,6 +224,14 @@ JavaScript 的压缩混淆、Less 的编译、Apache 2.0 许可通告的添加�
 3. 感谢[@BrucZhaoR](https://github.com/BruceZhaoR)的中文翻译
 4. 感谢 Jekyll、Github Pages 和 Bootstrap!
 
+License
+-------
+
+Apache License 2.0.
+Copyright (c) 2015-present Huxpro
+
+Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
+Copyright (c) 2013-2016 Blackrock Digital LLC.
 
 
 

@@ -8,8 +8,7 @@ header-style: text
 catalog: true
 tags:
 - 程序人生
-- 网站设计
-- java
+- jQuery
 --- 
 <div class="postBody">
 			<div id="cnblogs_post_body" class="blogpost-body"><p><strong>Jcrop</strong>是一个jQuery插件，它能为你的WEB应用程序快速简单地提供图片裁剪的功能。</p>

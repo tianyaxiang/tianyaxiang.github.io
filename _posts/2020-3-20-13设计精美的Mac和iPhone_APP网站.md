@@ -9,7 +9,6 @@ catalog: true
 tags:
 - 程序人生
 - 网站设计
-- java
 --- 
 <div class="postBody">
 			<div id="cnblogs_post_body" class="blogpost-body"><p><span><span>     <em><strong><span style="font-size:16px;">苹果的品牌 </span></strong></em>是具有良好的设计的代名词。</span><span>这也似乎很多Mac和iPhone的应用程序似乎拥有一点额外的东西，当涉及到美学。</span><span>这些应用程序的设计者在相同高水准的品质，在品牌承载的伟大工作。</span><span>在应用程序本身以及他们的网站,这是显而易见的。</span></span><span><span> 大部分这些网站的所有优秀的特色，非常详细的图标，像素完美的按钮，某些特质。</span></span></p>

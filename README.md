@@ -3,9 +3,10 @@
 ### [我的博客在这里 &rarr;](http://tianyaxiang.github.io)
 
 ### 关于部署到vercel上的说明
-需要增加Gemfile文件
+Deployment errors
+sh: jekyll:command not found
 
-You’ll be able to access this site locally at 127.0.0.1:4000 with the jekyll serve --bind=0.0.0.0 command in the site’s folder. If you attempt to deploy the site as is, you’ll run into the deployment error mentioned earlier in the blog. This can be avoided by adding a Gemfile in the root of your site’s directory.
+需要增加Gemfile文件
 
 ## 支持
 
